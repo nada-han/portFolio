@@ -23,6 +23,11 @@ const links = [
         active: 'home'
     },
     {
+        name: 'projets',
+        to: '/portfolio',
+        active: 'projets'
+    },
+    {
         name: 'certificats',
         to: '/certificats',
         active: 'certificats'
